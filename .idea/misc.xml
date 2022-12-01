@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/circular_progress_bar.xml" value="0.17407407407407408" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/circular_progress_gray.xml" value="0.1712962962962963" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/circular_progress_grey.xml" value="0.17407407407407408" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.16296296296296298" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.16296296296296298" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.16296296296296298" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.17407407407407408" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.17685185185185184" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/item_circular_gray_background.xml" value="0.15925925925925927" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/item_circular_thin_color_accent_border.xml" value="0.15925925925925927" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.17685185185185184" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/activity_bmi.xml" value="0.2" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/activity_exercise.xml" value="0.25" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/activity_finish.xml" value="0.15353260869565216" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/activity_history.xml" value="0.18" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/activity_main.xml" value="0.18297101449275363" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.2" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/item_exercise_status.xml" value="0.33" />
+        <entry key="..\:/UDEMY/7Minute workout App/app/src/main/res/layout/item_history_row.xml" value="0.14402173913043478" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
